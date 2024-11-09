@@ -1,11 +1,45 @@
 {
   "posts": [
-    { "id": "1", "title": "a title", "views": 100 },
-    { "id": "2", "title": "another title", "views": 200 }
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    },
+    {
+      "id": 191.45432904848025,
+      "title": "asdf",
+      "body": "fsdfsdfdsa",
+      "userId": 522.0347499316465
+    },
+    {
+      "id": 993.3343131077714,
+      "title": "dfasdf",
+      "body": "sdfasdf",
+      "userId": 85.6817628796942
+    },
+    {
+      "id": 550.4614382891604,
+      "title": "a",
+      "body": "b",
+      "userId": 361.3265992981278
+    }
   ],
   "comments": [
-    { "id": "1", "text": "a comment about post 1", "postId": "1" },
-    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
   ],
   "profile": {
     "name": "typicode"
